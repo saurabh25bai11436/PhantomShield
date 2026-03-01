@@ -2,7 +2,7 @@
 A real-time Multi-Tier Supply Chain Finance (SCF) fraud detection engine. Uses Triple-Lock verification (Invoice-PO-GRN) and network topology mapping to identify phantom invoices and duplicate financing risks.
 
 # Project Overview
-
+PhantomShield is an automated risk management framework designed to protect lenders from multi-tier supply chain fraud. While traditional systems miss high-velocity "phantom" patterns PhantomShield unifies disparate data sources into a single verification layer.
 
 # The Problem We Solve
 Phantom Invoices: Detection of fabricated Tier 1 invoices  that lack physical delivery backing.

@@ -9,10 +9,10 @@ Phantom Invoices: Detection of fabricated Tier 1 invoices  that lack physical de
 
 Cascading Exposure: Identifying risks that multiply as they move from Tier 3 to Tier 1.
 
-Siloed Invisibility: Breaking data silos between lenders, buyers, and suppliers to reveal network-level correlation.
+Siloed Invisibility: Breaking data silos between lenders, buyers and suppliers to reveal network-level correlation.
 
 # Technical Pillars
-The Triple-Lock System: Mandatory 3-way matching between Invoices, Purchase Orders (PO), and Goods Received Notes (GRN).
+The Triple-Lock System: Mandatory 3-way matching between Invoices, Purchase Orders (PO) and Goods Received Notes (GRN).
 
 Invoice Fingerprinting: Generating unique digital signatures for every invoice to prevent "double dipping" (submitting the same invoice to multiple lenders).
 

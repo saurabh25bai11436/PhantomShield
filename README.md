@@ -4,7 +4,7 @@ A real-time Multi-Tier Supply Chain Finance (SCF) fraud detection engine. Uses T
 # Project Overview
 PhantomShield is an automated risk management framework designed to protect lenders from multi-tier supply chain fraud. While traditional systems miss high-velocity "phantom" patterns PhantomShield unifies disparate data sources into a single verification layer.
 
-# The Problem We Solve
+# The Problem we are solving
 Phantom Invoices: Detection of fabricated Tier 1 invoices  that lack physical delivery backing.
 
 Cascading Exposure: Identifying risks that multiply as they move from Tier 3 to Tier 1.
